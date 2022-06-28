@@ -8,3 +8,4 @@ export * from './lib/objects/latLngBounds';
 export * from './lib/objects/latLng';
 export * from './lib/ng-google-places-autocomplete.directive';
 export * from './lib/ng-google-places-autocomplete.module';
+export * from './lib/objects/address';

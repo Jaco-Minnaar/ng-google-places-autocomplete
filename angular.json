@@ -35,5 +35,7 @@
       }
     }
   },
-  "defaultProject": "ng-google-places-autocomplete"
+  "cli": {
+    "analytics": false
+  }
 }
