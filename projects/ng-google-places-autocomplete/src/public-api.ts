@@ -9,3 +9,4 @@ export * from './lib/objects/latLng';
 export * from './lib/ng-google-places-autocomplete.directive';
 export * from './lib/ng-google-places-autocomplete.module';
 export * from './lib/objects/address';
+export * from './lib/objects/geometry';
